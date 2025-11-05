@@ -10,16 +10,12 @@
 - **Full stack developer in progress, currently focusing more on backend.**
 - I'm a **student** working his way around things.
   
-<h2> / current skills / </h2>
+<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s3a29tNmRmZm8xZmtuZTRjdm13dW80cm4zYTExb3RscXA5aGhzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VLzbEtlbwJUFljcRbf/giphy.gif" width="25"> / current skills / </h2>
   
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
+- <h4> backend </h4>
+  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "c++" />
+  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt = "py" />
   - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
   
 - <h4> frameworks & libraries </h4>
