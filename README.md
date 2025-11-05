@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zadiu.zadiu" />
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&duration=3000&pause=1000&color=5000F7&center=true&vCenter=true&width=435&lines=Programming+%3C3;Developer;Linux+enjoyer" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&duration=3000&pause=1000&color=5000F7&center=true&vCenter=true&width=435&lines=Programming+%3C3;Developer;Linux+enjoyer" alt="Typing SVG" /></a></p>
 
 <p align = "center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s3a29tNmRmZm8xZmtuZTRjdm13dW80cm4zYTExb3RscXA5aGhzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VLzbEtlbwJUFljcRbf/giphy.gif" width="400" alt="lain"> </p>
 
