@@ -3,12 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Karla&duration=3000&pause=1000&color=F70000&width=435&lines=Programming+%3C3;Developer;Linux+enjoyer)](https://git.io/typing-svg)
 
-<h2> / about me /</h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s3a29tNmRmZm8xZmtuZTRjdm13dW80cm4zYTExb3RscXA5aGhzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VLzbEtlbwJUFljcRbf/giphy.gif" width="35">/ about me /</h2>
   
 - **Full stack developer in progress, currently focusing more on backend.**
 - I'm a **student** working his way around things.
   
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s3a29tNmRmZm8xZmtuZTRjdm13dW80cm4zYTExb3RscXA5aGhzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VLzbEtlbwJUFljcRbf/giphy.gif" width="35"> / current skills / </h2>
+<h2> / current skills / </h2>
   
 - <h4> backend </h4>
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "c++" />
